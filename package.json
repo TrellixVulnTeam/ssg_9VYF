@@ -1,0 +1,23 @@
+{
+  "name": "ssg",
+  "version": "1.0.0",
+  "description": "Site ssg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoLarson/ssg.git"
+  },
+  "author": "Nicolas YANG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicoLarson/ssg/issues"
+  },
+  "homepage": "https://github.com/NicoLarson/ssg#readme",
+  "dependencies": {
+    "boilerplate": "^0.6.1",
+    "create-html5-boilerplate": "^0.3.0"
+  }
+}
